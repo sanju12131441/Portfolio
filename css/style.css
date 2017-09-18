@@ -1,0 +1,117 @@
+body{
+	background-color:#c2e2bc;
+	height: 100%;
+    width: 100%;
+
+    font-size: 16px;
+    ; 
+}
+p{
+  color: red;
+}
+#homeHeading{
+  color:#f2e085;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 35px;
+}
+#sads{
+  color:#e6e8e5;
+  font-size: 25px;
+  font-weight: bold;
+}
+#head{
+color:#fcf1e3;
+font-weight: bold;
+}
+#Myskills{
+  color: #30bc2b;
+  text-align: center;
+}
+
+ h2{
+ 	color:orange;
+ 	font-family: "Cambria" , "serif";
+	font-size: 32px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 35.2px;
+}
+ .sr-contact{
+ 	color:red;
+ }
+ .project-category .project-name{
+ 	color:#adb2ba;
+
+ }
+ #mail{
+  color: red;
+ }
+ .icons{
+ 	size: 16px;
+ }
+h3{
+	color:#af3a13;
+ 	font-family: "Cambria" , "serif";
+	font-size: 32px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 700;
+
+}
+header.masthead {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  text-align: center;
+  color: white;
+  background-image: url("../img/img2.jpg");
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+ @media (min-width:768px)
+ 	h1{font-size: 2.0em;
+ 		 }
+ 	h2{font-size: 1.5em;
+ 		}
+ 	p{font-size:0.5em}
+ 	h3{font-size: 1.0em;}
+ 	
+
+ }
+  @media (min-width: 300px)  {
+ 	h1{font-size: 2.0em;
+ 		}
+ 	h2{font-size: 1.5em;}
+ 
+ 	p{font-size:1.5em};
+ 		 
+ 	h3{font-size: 1.5em;}
+ 	
+
+ }
+ 
+@media (min-width: 1024px) {
+ 	h1{font-size: 2.0em;
+ 		 }
+ 	h2{font-size: 1.5em;
+ 		}
+ 	p{font-size:1.0em; 		}
+ 	h3{font-size: 1.0em;}
+ 	header.masthead {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  text-align: center;
+  color: white;
+  background-image: url("../img/img2.jpg");
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+ }
